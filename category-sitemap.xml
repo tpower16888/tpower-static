@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on October 18, 2025 at 6:56 am by All in One SEO Pro v4.7.9 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[/category/uncategorized/]]></loc>
+		<lastmod><![CDATA[2025-04-16T09:25:36+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+		<xhtml:link rel="alternate" hreflang="zh-hans" href="/zh-hans/category/%e6%9c%aa%e5%88%86%e7%b1%bb/" />
+		<xhtml:link rel="alternate" hreflang="en" href="/category/uncategorized/" />
+	</url>
+	<url>
+		<loc><![CDATA[/zh-hans/category/未分类/]]></loc>
+		<lastmod><![CDATA[2025-03-10T15:05:49+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+		<xhtml:link rel="alternate" hreflang="en" href="/category/uncategorized/" />
+		<xhtml:link rel="alternate" hreflang="zh-hans" href="/zh-hans/category/%e6%9c%aa%e5%88%86%e7%b1%bb/" />
+	</url>
+</urlset>
